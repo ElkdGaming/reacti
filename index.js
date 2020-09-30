@@ -10,7 +10,7 @@ react.on('ready', () => {
   console.log("I am ready! :)")
 });
 
-react.login("YOUR_TOKEN");
+react.login("NzU1NDM0NzE2NTEzMDQyNjA2.X2DPZw.FSLlWzjL56E191RymSDBDgsbf2Y");
 
 //Message Event, activates everytime a new message come.
 react.on('message', (message) => {
